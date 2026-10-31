@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Amal Dinesh
 
-- 🔭 Building things at [Postman](https://www.postman.com) (company on my GitHub profile)
+- 🔭 Building things at [Runable](https://runable.com)
 - 🌱 Currently exploring web apps, SvelteKit and Bun
 - 📫 Reach me at amalkdinesh@gmail.com
 - ⚡ Fun fact: I made my first public repo back in 2019
